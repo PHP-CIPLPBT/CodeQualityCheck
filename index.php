@@ -7,5 +7,5 @@ if(test){
     echo $ok;
 }
 echo "This is new".$test;
-
+echo "get new Line";
 ?>
